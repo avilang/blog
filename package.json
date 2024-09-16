@@ -22,5 +22,9 @@
     "clean": "hexo clean",
     "generate": "hexo generate",
     "deploy": "hexo clean && hexo generate && hexo deploy"
+  },
+  "volta": {
+    "node": "16.15.1",
+    "yarn": "1.22.18"
   }
 }
